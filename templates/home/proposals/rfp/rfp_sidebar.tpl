@@ -1,5 +1,5 @@
 <!--div id="sidebar_blocker"></div-->
-<!-- Secondary sidebar -->
+<!-- Secondary sidebar    --->
 <div id="rfp_sidebar" class="sidebar sidebar-secondary sidebar-default" style="display:none;">
 <style>
 {literal}
