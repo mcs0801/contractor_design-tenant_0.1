@@ -1,7 +1,6 @@
 {*{if $skip_js != 'true'}*}
-
 {*{/if}*}
-
+<!--//Edited by Waheed Ashraf  -->
 {include file='home/proposals/rfp/css/rfp_css.tpl'}
 <link rel="stylesheet" type="text/css" href="/{$BUILD_DIR}/resources/css/Aristo.css">
 {assign var="renewal_option" value=','|explode:"renewal_option_1,renewal_option_2,renewal_option_3,renewal_option_4"}
